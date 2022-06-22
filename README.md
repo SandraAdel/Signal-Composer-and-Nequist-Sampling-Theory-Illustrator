@@ -1,6 +1,6 @@
-# Sampling-Theory-Illustrator
+# Signal-Composer-and-Nequist-Sampling-Theory-Illustrator
 ## Desktop Appilcation - Written in Python (pyqt5)
-Developing an illustrator for signal recovery process, showing importance and validation of the Nyquist rate.
+Developing an illustrator for signal recovery process, showing importance and validation of the Nyquist theory.
 # Features
 - Browsing mid-length signal.
 - Sampling up to 3 times the maximum frequency.
